@@ -13,4 +13,6 @@
  * @right: Pointer to the right child node
  */
 
+ binary_tree_t *binary_tree_node(binary_tree_t *parent, int value);
+ 
 #endif /* BINARY_TREES_H */
